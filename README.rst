@@ -1,6 +1,6 @@
 .. _hello_world:
 
-Hello World
+Periodic Task Scheduling
 ###########
 
 Overview
